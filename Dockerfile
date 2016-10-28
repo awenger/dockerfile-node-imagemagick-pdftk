@@ -1,4 +1,4 @@
-FROM abiskop/node-v0.12.x
+FROM fbarth/dockerbase-node
 
 RUN echo deb http://archive.ubuntu.com/ubuntu trusty main universe > /etc/apt/sources.list
 RUN echo deb http://archive.ubuntu.com/ubuntu trusty-updates main universe >> /etc/apt/sources.list
