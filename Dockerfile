@@ -1,4 +1,4 @@
-FROM fbarth/dockerbase-node
+FROM fbarth/dockerbase-node:8.4.0
 
 RUN echo deb http://archive.ubuntu.com/ubuntu trusty main universe > /etc/apt/sources.list
 RUN echo deb http://archive.ubuntu.com/ubuntu trusty-updates main universe >> /etc/apt/sources.list
