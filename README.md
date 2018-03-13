@@ -3,4 +3,5 @@
 Trusted build: [awenger/node-imagemagick-pdftk](https://index.docker.io/u/awenger/node-imagemagick-pdftk/).
 
 **Dependencies**:
-- [abiskop/node-v0.12.x](https://github.com/abiskop/dockerfile-node-v0.12.x)
+
+- [fbarth/dockerbase-node:6.9.5](https://github.com/f-barth/dockerbase-node/tree/6.9.5)
