@@ -4,4 +4,4 @@ Trusted build: [awenger/node-imagemagick-pdftk](https://index.docker.io/u/awenge
 
 **Dependencies**:
 
-- [fbarth/dockerbase-node:6.9.5](https://github.com/f-barth/dockerbase-node/tree/6.9.5)
+- [fbarth/dockerbase-node:8.4.0](https://github.com/f-barth/dockerbase-node/tree/8.4.0)
